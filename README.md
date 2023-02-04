@@ -7,6 +7,5 @@ I made this because of a functionality I wanted that exists on Bing in Microsoft
 ## Simple Build
 
 ``` console
-$ ./build.sh
-Done!
+./build.sh
 ```
